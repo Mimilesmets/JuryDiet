@@ -1,9 +1,10 @@
 # JuryDiet
 Create a website with all the informations about diet for all types of persons in french
-FONT : Skinny Bastard/ Ruffle Beauty / Butch / Bellaboo
+
 
 #The website will have several pages 
-1. Home page 
+1. Home page Presentation
+
 2. alimentation equilibrée 
     lipides 
     protéines
@@ -24,4 +25,10 @@ FONT : Skinny Bastard/ Ruffle Beauty / Butch / Bellaboo
 9. Geriaterie
     denutrition
     alimentation adaptée
+10. Différents régimes
+    cétogène
+    méditéranienne
+
+
+
 
